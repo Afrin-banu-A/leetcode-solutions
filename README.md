@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -67,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
