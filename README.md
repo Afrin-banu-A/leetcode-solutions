@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
