@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
