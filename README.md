@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
