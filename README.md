@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0268-missing-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3429-special-array-i](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/3429-special-array-i) |
 | [4107-find-missing-elements](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/4107-find-missing-elements) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0966-binary-subarrays-with-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [4107-find-missing-elements](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Design
 |  |
@@ -121,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
