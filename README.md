@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [3429-special-array-i](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/3429-special-array-i) |
 | [4107-find-missing-elements](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [4107-find-missing-elements](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 ## Design
 |  |
 | ------- |
