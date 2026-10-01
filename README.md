@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [4107-find-missing-elements](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Binary Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 ## Design
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Stack
 |  |
 | ------- |
