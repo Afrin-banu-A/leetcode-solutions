@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
