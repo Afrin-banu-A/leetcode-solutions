@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [4107-find-missing-elements](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/4107-find-missing-elements) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
 ## Stack
 |  |
 | ------- |
