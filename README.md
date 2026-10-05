@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
