@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class Solution {
     public boolean isAnagram(String s, String t) {
 
@@ -5,15 +7,18 @@ class Solution {
             return false;
         }
 
-        int[] count = new int[26];
+        HashMap<Character, Integer> m = new HashMap<>();
 
-        for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
+        for (char c : s.toCharArray()) {
+            m.put(c, m.getOrDefault(c, 0) + 1);
         }
 
-        for (int i = 0; i < 26; i++) {
-            if (count[i] != 0) {
+        for (char c : t.toCharArray()) {
+            m.put(c, m.getOrDefault(c, 0) - 1);
+        }
+
+        for (int co : m.values()) {
+            if (co != 0) {
                 return false;
             }
         }
