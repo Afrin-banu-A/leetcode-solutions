@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0953-reverse-only-letters](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1281-can-make-palindrome-from-substring) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Stack
 |  |
