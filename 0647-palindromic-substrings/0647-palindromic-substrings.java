@@ -1,28 +1,29 @@
 
 class Solution {
     public int countSubstrings(String s) {
-        int count = 0;
+        int c = 0;
 
         for (int i = 0; i < s.length(); i++) {
-            for (int j = i; j < s.length(); j++) {
-                if (isPalindrome(s, i, j)) {
-                    count++;
-                }
-            }
+            int left = isPalin(s, i, i);
+            int right = isPalin(s, i, i + 1);
+
+            c += left;
+            c += right;
+        }
+
+        return c;
+    }
+
+    public int isPalin(String s, int l, int r) {
+        int count = 0;
+
+        while (l >= 0 && r < s.length()
+                && s.charAt(l) == s.charAt(r)) {
+            count++;
+            l--;
+            r++;
         }
 
         return count;
-    }
-
-    public boolean isPalindrome(String s, int i, int j) {
-        while (i < j) {
-            if (s.charAt(i) != s.charAt(j)) {
-                return false;
-            }
-            i++;
-            j--;
-        }
-
-        return true;
     }
 }
