@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [3429-special-array-i](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/3429-special-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4107-find-missing-elements](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4107-find-missing-elements](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0958-sort-array-by-parity-ii](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4107-find-missing-elements](https://github.com/Afrin-banu-A/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
